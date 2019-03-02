@@ -1,1 +1,1 @@
-# MIPS-Simulator
+# MIPS Simulator
